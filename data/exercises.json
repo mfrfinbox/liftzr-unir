@@ -1,0 +1,1360 @@
+[
+  {
+    "id": "ex-74-lying-leg-raise",
+    "name": "Elevación de Piernas Acostado",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["16-quadriceps", "13-lower-back", "15-obliques"],
+    "primaryMuscleGroup": "2-abs"
+  },
+  {
+    "id": "ex-36-decline-chest-fly-dumbbell",
+    "name": "Aperturas Declinadas (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["9-front-delts", "2-abs"],
+    "primaryMuscleGroup": "7-chest"
+  },
+  {
+    "id": "ex-110-sit-up",
+    "name": "Abdominales",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["16-quadriceps", "15-obliques", "13-lower-back"],
+    "primaryMuscleGroup": "2-abs"
+  },
+  {
+    "id": "ex-60-jump-squat",
+    "name": "Sentadilla con Salto",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "10-glutes",
+      "6-calves",
+      "2-abs",
+      "11-hamstrings",
+      "24-tibialis-anterior"
+    ],
+    "primaryMuscleGroup": "16-quadriceps"
+  },
+  {
+    "id": "ex-38-dumbbell-row",
+    "name": "Remo con Mancuerna",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "19-traps",
+      "17-rear-delts",
+      "5-biceps",
+      "22-upper-back",
+      "13-lower-back",
+      "8-forearms"
+    ],
+    "primaryMuscleGroup": "12-lats"
+  },
+  {
+    "id": "ex-85-push-up",
+    "name": "Flexiones",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["20-triceps", "9-front-delts", "2-abs"],
+    "primaryMuscleGroup": "7-chest"
+  },
+  {
+    "id": "ex-94-rowing-machine",
+    "name": "Máquina de Remo",
+    "type": "distance",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "22-upper-back",
+      "16-quadriceps",
+      "10-glutes",
+      "5-biceps",
+      "11-hamstrings",
+      "2-abs",
+      "17-rear-delts",
+      "19-traps",
+      "6-calves",
+      "8-forearms",
+      "24-tibialis-anterior"
+    ],
+    "primaryMuscleGroup": "12-lats"
+  },
+  {
+    "id": "ex-52-hip-thrust",
+    "name": "Empuje de Cadera",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["11-hamstrings", "2-abs"],
+    "primaryMuscleGroup": "10-glutes"
+  },
+  {
+    "id": "ex-131-v-up",
+    "name": "Elevación en V",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["16-quadriceps", "15-obliques", "13-lower-back"],
+    "primaryMuscleGroup": "2-abs"
+  },
+  {
+    "id": "ex-5-bench-press-barbell",
+    "name": "Press de Banca (Barra)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["20-triceps", "9-front-delts", "2-abs", "13-lower-back"],
+    "primaryMuscleGroup": "7-chest",
+    "usesPlates": true
+  },
+  {
+    "id": "ex-21-chest-dip",
+    "name": "Fondos de Pecho",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["20-triceps", "9-front-delts", "2-abs"],
+    "primaryMuscleGroup": "7-chest"
+  },
+  {
+    "id": "ex-6-bench-press-dumbbell",
+    "name": "Press de Banca (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["20-triceps", "9-front-delts", "2-abs", "13-lower-back"],
+    "primaryMuscleGroup": "7-chest"
+  },
+  {
+    "id": "ex-88-reverse-crunch",
+    "name": "Crunch Inverso",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["15-obliques", "13-lower-back"],
+    "primaryMuscleGroup": "2-abs"
+  },
+  {
+    "id": "ex-59-jump-rope",
+    "name": "Saltar la Cuerda",
+    "type": "time",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "16-quadriceps",
+      "10-glutes",
+      "9-front-delts",
+      "8-forearms",
+      "2-abs",
+      "11-hamstrings",
+      "24-tibialis-anterior"
+    ],
+    "primaryMuscleGroup": "6-calves"
+  },
+  {
+    "id": "ex-127-triceps-kickback-dumbbell",
+    "name": "Patada de Tríceps (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["17-rear-delts"],
+    "primaryMuscleGroup": "20-triceps"
+  },
+  {
+    "id": "ex-50-hanging-knee-raise",
+    "name": "Elevación de Rodillas Colgado",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["15-obliques", "16-quadriceps", "13-lower-back"],
+    "primaryMuscleGroup": "2-abs"
+  },
+  {
+    "id": "ex-73-lying-leg-curl-machine",
+    "name": "Curl de Piernas Acostado (Máquina)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["6-calves", "10-glutes"],
+    "primaryMuscleGroup": "11-hamstrings"
+  },
+  {
+    "id": "ex-113-squat-dumbbell",
+    "name": "Sentadilla (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["10-glutes", "11-hamstrings", "2-abs", "13-lower-back", "6-calves"],
+    "primaryMuscleGroup": "16-quadriceps"
+  },
+  {
+    "id": "ex-122-swimming",
+    "name": "Natación",
+    "type": "distance",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "22-upper-back",
+      "9-front-delts",
+      "20-triceps",
+      "2-abs",
+      "15-obliques",
+      "10-glutes",
+      "16-quadriceps",
+      "11-hamstrings",
+      "17-rear-delts",
+      "6-calves",
+      "24-tibialis-anterior"
+    ],
+    "primaryMuscleGroup": "12-lats"
+  },
+  {
+    "id": "ex-82-pull-up",
+    "name": "Dominadas",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "5-biceps",
+      "17-rear-delts",
+      "19-traps",
+      "22-upper-back",
+      "9-front-delts"
+    ],
+    "primaryMuscleGroup": "12-lats"
+  },
+  {
+    "id": "ex-95-running",
+    "name": "Correr",
+    "type": "distance",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "10-glutes",
+      "6-calves",
+      "11-hamstrings",
+      "2-abs",
+      "9-front-delts",
+      "17-rear-delts",
+      "15-obliques",
+      "24-tibialis-anterior"
+    ],
+    "primaryMuscleGroup": "16-quadriceps"
+  },
+  {
+    "id": "ex-111-squat-barbell",
+    "name": "Sentadilla (Barra)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["10-glutes", "11-hamstrings", "2-abs", "13-lower-back", "6-calves"],
+    "primaryMuscleGroup": "16-quadriceps",
+    "usesPlates": true
+  },
+  {
+    "id": "ex-56-incline-chest-fly-dumbbell",
+    "name": "Aperturas Inclinadas (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["9-front-delts", "2-abs", "13-lower-back"],
+    "primaryMuscleGroup": "21-upper-chest"
+  },
+  {
+    "id": "ex-134-wall-sit",
+    "name": "Sentadilla en Pared",
+    "type": "time",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["10-glutes", "2-abs", "11-hamstrings"],
+    "primaryMuscleGroup": "16-quadriceps"
+  },
+  {
+    "id": "ex-83-pull-up-assisted",
+    "name": "Dominadas (Asistidas)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "5-biceps",
+      "17-rear-delts",
+      "19-traps",
+      "22-upper-back",
+      "9-front-delts"
+    ],
+    "primaryMuscleGroup": "12-lats"
+  },
+  {
+    "id": "ex-103-shoulder-press-dumbbell",
+    "name": "Press de Hombros (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "23-medial-delts",
+      "20-triceps",
+      "21-upper-chest",
+      "2-abs",
+      "13-lower-back"
+    ],
+    "primaryMuscleGroup": "9-front-delts"
+  },
+  {
+    "id": "ex-44-front-squat",
+    "name": "Sentadilla Frontal",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["10-glutes", "13-lower-back", "2-abs", "11-hamstrings", "6-calves"],
+    "primaryMuscleGroup": "16-quadriceps",
+    "usesPlates": true
+  },
+  {
+    "id": "ex-24-chest-press-machine",
+    "name": "Press de Pecho (Máquina)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["20-triceps", "9-front-delts"],
+    "primaryMuscleGroup": "7-chest"
+  },
+  {
+    "id": "ex-54-incline-bench-press-barbell",
+    "name": "Press Inclinado (Barra)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["7-chest", "20-triceps", "9-front-delts", "2-abs", "13-lower-back"],
+    "primaryMuscleGroup": "21-upper-chest",
+    "usesPlates": true
+  },
+  {
+    "id": "ex-101-seated-row-machine",
+    "name": "Remo Sentado (Máquina)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "19-traps",
+      "22-upper-back",
+      "17-rear-delts",
+      "5-biceps",
+      "8-forearms"
+    ],
+    "primaryMuscleGroup": "12-lats"
+  },
+  {
+    "id": "ex-3-bench-dip",
+    "name": "Fondos en Banco",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["7-chest", "9-front-delts"],
+    "primaryMuscleGroup": "20-triceps"
+  },
+  {
+    "id": "ex-29-crunch-machine",
+    "name": "Crunch (Máquina)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["15-obliques"],
+    "primaryMuscleGroup": "2-abs"
+  },
+  {
+    "id": "ex-16-burpee",
+    "name": "Burpee",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "10-glutes",
+      "7-chest",
+      "20-triceps",
+      "2-abs",
+      "15-obliques",
+      "9-front-delts",
+      "11-hamstrings",
+      "6-calves",
+      "17-rear-delts",
+      "22-upper-back",
+      "24-tibialis-anterior"
+    ],
+    "primaryMuscleGroup": "16-quadriceps"
+  },
+  {
+    "id": "ex-67-lateral-raise-machine",
+    "name": "Elevación Lateral (Máquina)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["9-front-delts", "17-rear-delts"],
+    "primaryMuscleGroup": "23-medial-delts"
+  },
+  {
+    "id": "ex-9-bicep-curl-barbell",
+    "name": "Curl de Bíceps (Barra)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["8-forearms", "9-front-delts"],
+    "primaryMuscleGroup": "5-biceps",
+    "usesPlates": true
+  },
+  {
+    "id": "ex-71-lunge-barbell",
+    "name": "Zancada (Barra)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["10-glutes", "11-hamstrings", "2-abs", "6-calves"],
+    "primaryMuscleGroup": "16-quadriceps",
+    "usesPlates": true
+  },
+  {
+    "id": "ex-119-straight-arm-lat-pulldown-cable",
+    "name": "Jalón con Brazos Extendidos (Cable)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["20-triceps", "17-rear-delts", "22-upper-back", "2-abs"],
+    "primaryMuscleGroup": "12-lats"
+  },
+  {
+    "id": "ex-77-overhead-press-dumbbell",
+    "name": "Press Militar (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "23-medial-delts",
+      "20-triceps",
+      "21-upper-chest",
+      "2-abs",
+      "13-lower-back"
+    ],
+    "primaryMuscleGroup": "9-front-delts"
+  },
+  {
+    "id": "ex-72-lunge-dumbbell",
+    "name": "Zancada (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["10-glutes", "11-hamstrings", "2-abs", "6-calves"],
+    "primaryMuscleGroup": "16-quadriceps"
+  },
+  {
+    "id": "ex-123-t-bar-row",
+    "name": "Remo en T",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "19-traps",
+      "22-upper-back",
+      "17-rear-delts",
+      "5-biceps",
+      "13-lower-back",
+      "8-forearms"
+    ],
+    "primaryMuscleGroup": "12-lats",
+    "usesPlates": true
+  },
+  {
+    "id": "ex-129-upright-row-barbell",
+    "name": "Remo al Mentón (Barra)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["19-traps", "5-biceps", "8-forearms"],
+    "primaryMuscleGroup": "23-medial-delts",
+    "usesPlates": true
+  },
+  {
+    "id": "ex-109-single-leg-hip-thrust",
+    "name": "Empuje de Cadera a Una Pierna",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["11-hamstrings", "2-abs", "15-obliques"],
+    "primaryMuscleGroup": "10-glutes"
+  },
+  {
+    "id": "ex-64-lat-pulldown-close-grip-cable",
+    "name": "Jalón al Pecho - Agarre Cerrado (Cable)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "5-biceps",
+      "22-upper-back",
+      "17-rear-delts",
+      "19-traps",
+      "8-forearms"
+    ],
+    "primaryMuscleGroup": "12-lats"
+  },
+  {
+    "id": "ex-69-leg-press-machine",
+    "name": "Prensa de Piernas (Máquina)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["10-glutes", "11-hamstrings", "6-calves"],
+    "primaryMuscleGroup": "16-quadriceps"
+  },
+  {
+    "id": "ex-41-floor-press-dumbbell",
+    "name": "Press en Suelo (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["20-triceps", "9-front-delts"],
+    "primaryMuscleGroup": "7-chest"
+  },
+  {
+    "id": "ex-27-concentration-curl",
+    "name": "Curl Concentrado",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["8-forearms"],
+    "primaryMuscleGroup": "5-biceps"
+  },
+  {
+    "id": "ex-121-sumo-squat",
+    "name": "Sentadilla Sumo",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["10-glutes", "3-adductors", "11-hamstrings", "2-abs", "6-calves"],
+    "primaryMuscleGroup": "16-quadriceps"
+  },
+  {
+    "id": "ex-57-incline-chest-press-machine",
+    "name": "Press Inclinado (Máquina)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["7-chest", "20-triceps", "9-front-delts"],
+    "primaryMuscleGroup": "21-upper-chest"
+  },
+  {
+    "id": "ex-20-calf-press-machine",
+    "name": "Prensa de Pantorrillas (Máquina)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [],
+    "primaryMuscleGroup": "6-calves"
+  },
+  {
+    "id": "ex-18-cable-crunch",
+    "name": "Crunch con Cable",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["15-obliques", "13-lower-back"],
+    "primaryMuscleGroup": "2-abs"
+  },
+  {
+    "id": "ex-17-butterfly-pec-deck",
+    "name": "Mariposa (Pec Deck)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["9-front-delts"],
+    "primaryMuscleGroup": "7-chest"
+  },
+  {
+    "id": "ex-130-upright-row-dumbbell",
+    "name": "Remo al Mentón (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["19-traps", "5-biceps", "8-forearms"],
+    "primaryMuscleGroup": "23-medial-delts"
+  },
+  {
+    "id": "ex-7-bent-over-row-barbell",
+    "name": "Remo Inclinado (Barra)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "19-traps",
+      "17-rear-delts",
+      "5-biceps",
+      "13-lower-back",
+      "22-upper-back",
+      "8-forearms"
+    ],
+    "primaryMuscleGroup": "12-lats",
+    "usesPlates": true
+  },
+  {
+    "id": "ex-79-preacher-curl-barbell",
+    "name": "Curl Scott (Barra)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["8-forearms", "9-front-delts"],
+    "primaryMuscleGroup": "5-biceps",
+    "usesPlates": true
+  },
+  {
+    "id": "ex-2-back-extension-machine",
+    "name": "Extensión de Espalda (Máquina)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["10-glutes", "11-hamstrings"],
+    "primaryMuscleGroup": "13-lower-back"
+  },
+  {
+    "id": "ex-97-seated-cable-row-v-grip-cable",
+    "name": "Remo Sentado - Agarre V (Cable)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "19-traps",
+      "22-upper-back",
+      "17-rear-delts",
+      "5-biceps",
+      "13-lower-back",
+      "8-forearms"
+    ],
+    "primaryMuscleGroup": "12-lats"
+  },
+  {
+    "id": "ex-98-seated-calf-raise",
+    "name": "Elevación de Pantorrillas Sentado",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [],
+    "primaryMuscleGroup": "6-calves"
+  },
+  {
+    "id": "ex-80-preacher-curl-dumbbell",
+    "name": "Curl Scott (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["8-forearms", "9-front-delts"],
+    "primaryMuscleGroup": "5-biceps"
+  },
+  {
+    "id": "ex-63-kettlebell-swing",
+    "name": "Swing con Kettlebell",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "11-hamstrings",
+      "13-lower-back",
+      "16-quadriceps",
+      "2-abs",
+      "15-obliques",
+      "9-front-delts",
+      "19-traps",
+      "12-lats",
+      "8-forearms"
+    ],
+    "primaryMuscleGroup": "10-glutes"
+  },
+  {
+    "id": "ex-15-bulgarian-split-squat",
+    "name": "Sentadilla Búlgara",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["10-glutes", "2-abs", "11-hamstrings", "6-calves"],
+    "primaryMuscleGroup": "16-quadriceps"
+  },
+  {
+    "id": "ex-104-shrug-barbell",
+    "name": "Encogimientos (Barra)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["23-medial-delts", "8-forearms"],
+    "primaryMuscleGroup": "19-traps",
+    "usesPlates": true
+  },
+  {
+    "id": "ex-81-preacher-curl-machine",
+    "name": "Curl Scott (Máquina)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["8-forearms"],
+    "primaryMuscleGroup": "5-biceps"
+  },
+  {
+    "id": "ex-39-face-pull",
+    "name": "Face Pull",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "19-traps",
+      "22-upper-back",
+      "23-medial-delts",
+      "12-lats",
+      "5-biceps"
+    ],
+    "primaryMuscleGroup": "17-rear-delts"
+  },
+  {
+    "id": "ex-49-hammer-curl-dumbbell",
+    "name": "Curl Martillo (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["5-biceps"],
+    "primaryMuscleGroup": "8-forearms"
+  },
+  {
+    "id": "ex-30-cycling",
+    "name": "Ciclismo",
+    "type": "distance",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "10-glutes",
+      "6-calves",
+      "11-hamstrings",
+      "2-abs",
+      "8-forearms",
+      "24-tibialis-anterior"
+    ],
+    "primaryMuscleGroup": "16-quadriceps"
+  },
+  {
+    "id": "ex-96-russian-twist-bodyweight",
+    "name": "Giro Ruso (Peso Corporal)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["2-abs", "16-quadriceps"],
+    "primaryMuscleGroup": "15-obliques"
+  },
+  {
+    "id": "ex-32-deadlift-barbell",
+    "name": "Peso Muerto (Barra)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "11-hamstrings",
+      "13-lower-back",
+      "16-quadriceps",
+      "19-traps",
+      "22-upper-back",
+      "12-lats",
+      "6-calves",
+      "2-abs",
+      "8-forearms"
+    ],
+    "primaryMuscleGroup": "10-glutes",
+    "usesPlates": true
+  },
+  {
+    "id": "ex-116-standing-calf-raise-dumbbell",
+    "name": "Elevación de Pantorrillas de Pie (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["2-abs"],
+    "primaryMuscleGroup": "6-calves"
+  },
+  {
+    "id": "ex-47-good-morning-barbell",
+    "name": "Buenos Días (Barra)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["13-lower-back", "10-glutes", "2-abs"],
+    "primaryMuscleGroup": "11-hamstrings",
+    "usesPlates": true
+  },
+  {
+    "id": "ex-105-shrug-dumbbell",
+    "name": "Encogimientos (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["23-medial-delts", "8-forearms"],
+    "primaryMuscleGroup": "19-traps"
+  },
+  {
+    "id": "ex-108-single-leg-glute-bridge",
+    "name": "Puente de Glúteos a Una Pierna",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["11-hamstrings", "2-abs", "15-obliques"],
+    "primaryMuscleGroup": "10-glutes"
+  },
+  {
+    "id": "ex-8-bent-over-row-dumbbell",
+    "name": "Remo Inclinado (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "19-traps",
+      "17-rear-delts",
+      "5-biceps",
+      "22-upper-back",
+      "13-lower-back",
+      "8-forearms"
+    ],
+    "primaryMuscleGroup": "12-lats"
+  },
+  {
+    "id": "ex-84-pullover-dumbbell",
+    "name": "Pullover (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["7-chest", "20-triceps", "17-rear-delts", "2-abs"],
+    "primaryMuscleGroup": "12-lats"
+  },
+  {
+    "id": "ex-19-cable-fly-crossovers",
+    "name": "Cruces con Cable",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["9-front-delts", "2-abs", "13-lower-back"],
+    "primaryMuscleGroup": "7-chest"
+  },
+  {
+    "id": "ex-90-reverse-lunge",
+    "name": "Zancada Inversa",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["11-hamstrings", "16-quadriceps", "2-abs", "6-calves"],
+    "primaryMuscleGroup": "10-glutes"
+  },
+  {
+    "id": "ex-14-box-jump",
+    "name": "Salto al Cajón",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "10-glutes",
+      "6-calves",
+      "11-hamstrings",
+      "2-abs",
+      "15-obliques",
+      "3-adductors",
+      "24-tibialis-anterior"
+    ],
+    "primaryMuscleGroup": "16-quadriceps"
+  },
+  {
+    "id": "ex-70-lunge",
+    "name": "Zancada",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["10-glutes", "11-hamstrings", "2-abs", "6-calves"],
+    "primaryMuscleGroup": "16-quadriceps"
+  },
+  {
+    "id": "ex-58-incline-push-ups",
+    "name": "Flexiones Inclinadas",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["20-triceps", "9-front-delts", "2-abs"],
+    "primaryMuscleGroup": "7-chest"
+  },
+  {
+    "id": "ex-61-jumping-jack",
+    "name": "Saltos de Tijera",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "6-calves",
+      "9-front-delts",
+      "10-glutes",
+      "11-hamstrings",
+      "23-medial-delts",
+      "2-abs",
+      "3-adductors"
+    ],
+    "primaryMuscleGroup": "16-quadriceps"
+  },
+  {
+    "id": "ex-102-seated-shoulder-press-machine",
+    "name": "Press de Hombros Sentado (Máquina)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["23-medial-delts", "20-triceps", "21-upper-chest"],
+    "primaryMuscleGroup": "9-front-delts"
+  },
+  {
+    "id": "ex-99-seated-leg-curl-machine",
+    "name": "Curl de Piernas Sentado (Máquina)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["10-glutes", "2-abs"],
+    "primaryMuscleGroup": "11-hamstrings"
+  },
+  {
+    "id": "ex-120-sumo-deadlift",
+    "name": "Peso Muerto Sumo",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "10-glutes",
+      "11-hamstrings",
+      "3-adductors",
+      "13-lower-back",
+      "19-traps",
+      "22-upper-back",
+      "2-abs",
+      "6-calves"
+    ],
+    "primaryMuscleGroup": "16-quadriceps",
+    "usesPlates": true
+  },
+  {
+    "id": "ex-37-diamond-push-up",
+    "name": "Flexiones Diamante",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["7-chest", "9-front-delts", "2-abs"],
+    "primaryMuscleGroup": "20-triceps"
+  },
+  {
+    "id": "ex-92-romanian-deadlift-barbell",
+    "name": "Peso Muerto Rumano (Barra)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["10-glutes", "13-lower-back", "2-abs", "6-calves", "8-forearms"],
+    "primaryMuscleGroup": "11-hamstrings",
+    "usesPlates": true
+  },
+  {
+    "id": "ex-112-squat-bodyweight",
+    "name": "Sentadilla (Peso Corporal)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["10-glutes", "11-hamstrings", "2-abs", "6-calves"],
+    "primaryMuscleGroup": "16-quadriceps"
+  },
+  {
+    "id": "ex-34-decline-bench-press-barbell",
+    "name": "Press Declinado (Barra)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["20-triceps", "9-front-delts", "2-abs", "13-lower-back"],
+    "primaryMuscleGroup": "7-chest",
+    "usesPlates": true
+  },
+  {
+    "id": "ex-53-hip-thrust-barbell",
+    "name": "Empuje de Cadera (Barra)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["11-hamstrings", "2-abs"],
+    "primaryMuscleGroup": "10-glutes",
+    "usesPlates": true
+  },
+  {
+    "id": "ex-12-bicep-curl-machine",
+    "name": "Curl de Bíceps (Máquina)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["8-forearms"],
+    "primaryMuscleGroup": "5-biceps"
+  },
+  {
+    "id": "ex-65-lat-pulldown-cable",
+    "name": "Jalón al Pecho (Cable)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "5-biceps",
+      "19-traps",
+      "17-rear-delts",
+      "22-upper-back",
+      "8-forearms"
+    ],
+    "primaryMuscleGroup": "12-lats"
+  },
+  {
+    "id": "ex-51-hanging-leg-raise",
+    "name": "Elevación de Piernas Colgado",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["15-obliques", "13-lower-back", "16-quadriceps"],
+    "primaryMuscleGroup": "2-abs"
+  },
+  {
+    "id": "ex-128-triceps-pushdown",
+    "name": "Extensión de Tríceps en Polea",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["8-forearms", "9-front-delts"],
+    "primaryMuscleGroup": "20-triceps"
+  },
+  {
+    "id": "ex-26-chin-up-assisted",
+    "name": "Dominadas Supinas (Asistidas)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "5-biceps",
+      "17-rear-delts",
+      "19-traps",
+      "22-upper-back",
+      "9-front-delts"
+    ],
+    "primaryMuscleGroup": "12-lats"
+  },
+  {
+    "id": "ex-13-bicycle-crunch",
+    "name": "Crunch Bicicleta",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["15-obliques", "16-quadriceps"],
+    "primaryMuscleGroup": "2-abs"
+  },
+  {
+    "id": "ex-33-deadlift-dumbbell",
+    "name": "Peso Muerto (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "11-hamstrings",
+      "13-lower-back",
+      "16-quadriceps",
+      "2-abs",
+      "8-forearms",
+      "6-calves"
+    ],
+    "primaryMuscleGroup": "10-glutes"
+  },
+  {
+    "id": "ex-62-jumping-lunge",
+    "name": "Zancada con Salto",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "10-glutes",
+      "11-hamstrings",
+      "6-calves",
+      "2-abs",
+      "15-obliques",
+      "24-tibialis-anterior"
+    ],
+    "primaryMuscleGroup": "16-quadriceps"
+  },
+  {
+    "id": "ex-107-single-arm-dumbbell-row",
+    "name": "Remo con Mancuerna a Una Mano",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "19-traps",
+      "17-rear-delts",
+      "5-biceps",
+      "22-upper-back",
+      "13-lower-back",
+      "8-forearms"
+    ],
+    "primaryMuscleGroup": "12-lats"
+  },
+  {
+    "id": "ex-22-chest-fly-dumbbell",
+    "name": "Aperturas con Mancuerna",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["9-front-delts", "2-abs", "13-lower-back"],
+    "primaryMuscleGroup": "7-chest"
+  },
+  {
+    "id": "ex-133-walking-lunge",
+    "name": "Zancada Caminando",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "10-glutes",
+      "11-hamstrings",
+      "2-abs",
+      "6-calves",
+      "24-tibialis-anterior"
+    ],
+    "primaryMuscleGroup": "16-quadriceps"
+  },
+  {
+    "id": "ex-89-reverse-curl-barbell",
+    "name": "Curl Invertido (Barra)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["5-biceps"],
+    "primaryMuscleGroup": "8-forearms",
+    "usesPlates": true
+  },
+  {
+    "id": "ex-1-back-extension-hyperextension",
+    "name": "Hiperextensión de Espalda",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["10-glutes", "11-hamstrings", "2-abs"],
+    "primaryMuscleGroup": "13-lower-back"
+  },
+  {
+    "id": "ex-86-push-up-close-grip",
+    "name": "Flexiones con Agarre Cerrado",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["7-chest", "9-front-delts", "2-abs"],
+    "primaryMuscleGroup": "20-triceps"
+  },
+  {
+    "id": "ex-45-glute-bridge",
+    "name": "Puente de Glúteos",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["11-hamstrings", "2-abs"],
+    "primaryMuscleGroup": "10-glutes"
+  },
+  {
+    "id": "ex-68-leg-extension-machine",
+    "name": "Extensión de Piernas (Máquina)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["2-abs"],
+    "primaryMuscleGroup": "16-quadriceps"
+  },
+  {
+    "id": "ex-118-step-up",
+    "name": "Subida al Banco",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["10-glutes", "2-abs", "6-calves", "11-hamstrings"],
+    "primaryMuscleGroup": "16-quadriceps"
+  },
+  {
+    "id": "ex-55-incline-bench-press-dumbbell",
+    "name": "Press Inclinado (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["7-chest", "20-triceps", "9-front-delts", "2-abs", "13-lower-back"],
+    "primaryMuscleGroup": "21-upper-chest"
+  },
+  {
+    "id": "ex-124-treadmill",
+    "name": "Cinta de Correr",
+    "type": "distance",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "10-glutes",
+      "6-calves",
+      "11-hamstrings",
+      "2-abs",
+      "9-front-delts",
+      "17-rear-delts",
+      "15-obliques",
+      "24-tibialis-anterior"
+    ],
+    "primaryMuscleGroup": "16-quadriceps"
+  },
+  {
+    "id": "ex-115-standing-calf-raise",
+    "name": "Elevación de Pantorrillas de Pie",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["2-abs"],
+    "primaryMuscleGroup": "6-calves"
+  },
+  {
+    "id": "ex-114-squat-machine",
+    "name": "Sentadilla (Máquina)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["10-glutes", "11-hamstrings", "6-calves"],
+    "primaryMuscleGroup": "16-quadriceps"
+  },
+  {
+    "id": "ex-91-reverse-lunge-dumbbell",
+    "name": "Zancada Inversa (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["11-hamstrings", "16-quadriceps", "2-abs", "6-calves"],
+    "primaryMuscleGroup": "10-glutes"
+  },
+  {
+    "id": "ex-75-mountain-climber",
+    "name": "Escalador",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "16-quadriceps",
+      "9-front-delts",
+      "15-obliques",
+      "11-hamstrings",
+      "10-glutes",
+      "20-triceps",
+      "7-chest",
+      "8-forearms",
+      "6-calves",
+      "24-tibialis-anterior"
+    ],
+    "primaryMuscleGroup": "2-abs"
+  },
+  {
+    "id": "ex-42-flutter-kicks",
+    "name": "Patadas de Aleteo",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["16-quadriceps", "15-obliques", "13-lower-back"],
+    "primaryMuscleGroup": "2-abs"
+  },
+  {
+    "id": "ex-93-romanian-deadlift-dumbbell",
+    "name": "Peso Muerto Rumano (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["10-glutes", "13-lower-back", "2-abs", "6-calves", "8-forearms"],
+    "primaryMuscleGroup": "11-hamstrings"
+  },
+  {
+    "id": "ex-23-chest-fly-machine",
+    "name": "Aperturas (Máquina)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["9-front-delts"],
+    "primaryMuscleGroup": "7-chest"
+  },
+  {
+    "id": "ex-78-plank",
+    "name": "Plancha",
+    "type": "time",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["15-obliques", "13-lower-back"],
+    "primaryMuscleGroup": "2-abs"
+  },
+  {
+    "id": "ex-117-standing-calf-raise-machine",
+    "name": "Elevación de Pantorrillas (Máquina)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["2-abs"],
+    "primaryMuscleGroup": "6-calves"
+  },
+  {
+    "id": "ex-125-triceps-dip",
+    "name": "Fondos de Tríceps",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["7-chest", "9-front-delts", "2-abs"],
+    "primaryMuscleGroup": "20-triceps"
+  },
+  {
+    "id": "ex-87-rear-delt-reverse-fly-dumbbell",
+    "name": "Vuelos Invertidos (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["22-upper-back", "19-traps"],
+    "primaryMuscleGroup": "17-rear-delts"
+  },
+  {
+    "id": "ex-43-front-raise-dumbbell",
+    "name": "Elevación Frontal (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["21-upper-chest", "23-medial-delts", "2-abs"],
+    "primaryMuscleGroup": "9-front-delts"
+  },
+  {
+    "id": "ex-11-bicep-curl-dumbbell",
+    "name": "Curl de Bíceps (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["8-forearms", "9-front-delts"],
+    "primaryMuscleGroup": "5-biceps"
+  },
+  {
+    "id": "ex-28-crunch",
+    "name": "Crunch",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["15-obliques"],
+    "primaryMuscleGroup": "2-abs"
+  },
+  {
+    "id": "ex-48-hack-squat-machine",
+    "name": "Sentadilla Hack (Máquina)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["10-glutes", "11-hamstrings", "6-calves"],
+    "primaryMuscleGroup": "16-quadriceps"
+  },
+  {
+    "id": "ex-106-side-plank",
+    "name": "Plancha Lateral",
+    "type": "time",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["2-abs", "13-lower-back", "10-glutes"],
+    "primaryMuscleGroup": "15-obliques"
+  },
+  {
+    "id": "ex-31-dead-hang",
+    "name": "Colgarse de la Barra",
+    "type": "time",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["12-lats", "19-traps", "2-abs"],
+    "primaryMuscleGroup": "8-forearms"
+  },
+  {
+    "id": "ex-66-lateral-raise-dumbbell",
+    "name": "Elevación Lateral (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["9-front-delts", "17-rear-delts", "2-abs"],
+    "primaryMuscleGroup": "23-medial-delts"
+  },
+  {
+    "id": "ex-126-triceps-extension-dumbbell",
+    "name": "Extensión de Tríceps (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["9-front-delts", "7-chest"],
+    "primaryMuscleGroup": "20-triceps"
+  },
+  {
+    "id": "ex-25-chin-up",
+    "name": "Dominadas Supinas",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "5-biceps",
+      "17-rear-delts",
+      "19-traps",
+      "22-upper-back",
+      "9-front-delts"
+    ],
+    "primaryMuscleGroup": "12-lats"
+  },
+  {
+    "id": "ex-132-walking",
+    "name": "Caminar",
+    "type": "distance",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "10-glutes",
+      "6-calves",
+      "11-hamstrings",
+      "2-abs",
+      "24-tibialis-anterior"
+    ],
+    "primaryMuscleGroup": "16-quadriceps"
+  },
+  {
+    "id": "ex-4-bench-press-close-grip-barbell",
+    "name": "Press de Banca - Agarre Cerrado (Barra)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["7-chest", "9-front-delts", "2-abs", "13-lower-back"],
+    "primaryMuscleGroup": "20-triceps",
+    "usesPlates": true
+  },
+  {
+    "id": "ex-40-floor-press-barbell",
+    "name": "Press en Suelo (Barra)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["20-triceps", "9-front-delts"],
+    "primaryMuscleGroup": "7-chest",
+    "usesPlates": true
+  },
+  {
+    "id": "ex-100-seated-overhead-press-dumbbell",
+    "name": "Press Militar Sentado (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["23-medial-delts", "20-triceps", "21-upper-chest", "2-abs"],
+    "primaryMuscleGroup": "9-front-delts"
+  },
+  {
+    "id": "ex-76-overhead-press-barbell",
+    "name": "Press Militar (Barra)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": [
+      "23-medial-delts",
+      "20-triceps",
+      "21-upper-chest",
+      "2-abs",
+      "13-lower-back"
+    ],
+    "primaryMuscleGroup": "9-front-delts",
+    "usesPlates": true
+  },
+  {
+    "id": "ex-10-bicep-curl-cable",
+    "name": "Curl de Bíceps (Cable)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["8-forearms", "9-front-delts"],
+    "primaryMuscleGroup": "5-biceps"
+  },
+  {
+    "id": "ex-35-decline-bench-press-dumbbell",
+    "name": "Press Declinado (Mancuerna)",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["20-triceps", "9-front-delts", "2-abs", "13-lower-back"],
+    "primaryMuscleGroup": "7-chest"
+  },
+  {
+    "id": "ex-46-goblet-squat",
+    "name": "Sentadilla Copa",
+    "type": "reps",
+    "isCustom": false,
+    "secondaryMuscleGroups": ["10-glutes", "2-abs", "11-hamstrings", "6-calves", "13-lower-back"],
+    "primaryMuscleGroup": "16-quadriceps"
+  }
+]

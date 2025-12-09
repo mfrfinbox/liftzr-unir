@@ -1,0 +1,90 @@
+{
+  "expo": {
+    "name": "Liftzr",
+    "slug": "liftzr",
+    "version": "0.0.4",
+    "scheme": "liftzr",
+    "web": {
+      "output": "server"
+    },
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "deploymentTarget": "16.0"
+          }
+        }
+      ],
+      [
+        "expo-router",
+        {
+          "origin": "https://liftzr.expo.app"
+        }
+      ],
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/splash/splash-icon-light.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#101010",
+          "dark": {
+            "image": "./assets/splash/splash-icon-light.png",
+            "backgroundColor": "#101010"
+          },
+          "light": {
+            "image": "./assets/splash/splash-icon-light.png",
+            "backgroundColor": "#101010"
+          }
+        }
+      ],
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/icons/ios-light.png",
+          "color": "#101010"
+        }
+      ],
+      "expo-font",
+      "expo-localization"
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "tsconfigPaths": true
+    },
+    "orientation": "portrait",
+    "icon": "./assets/icons/ios-dark.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash/splash-icon-light.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#101010"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.mfrfbox.liftzr",
+      "appleTeamId": "P5J772HCWG",
+      "icon": "./assets/icons/ios-dark.png",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      },
+      "config": {
+        "usesNonExemptEncryption": false
+      }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "0cc1df0c-9643-452a-8a6b-b41c8c8621ec"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/0cc1df0c-9643-452a-8a6b-b41c8c8621ec"
+    }
+  }
+}

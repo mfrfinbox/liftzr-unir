@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1-abductors",
+    "name": "abductors",
+    "displayName": "Abductores",
+    "category": "lower_body"
+  },
+  {
+    "id": "2-abs",
+    "name": "abs",
+    "displayName": "Abdominales",
+    "category": "core"
+  },
+  {
+    "id": "3-adductors",
+    "name": "adductors",
+    "displayName": "Aductores",
+    "category": "lower_body"
+  },
+  {
+    "id": "5-biceps",
+    "name": "biceps",
+    "displayName": "Bíceps",
+    "category": "upper_body"
+  },
+  {
+    "id": "6-calves",
+    "name": "calves",
+    "displayName": "Pantorrillas",
+    "category": "lower_body"
+  },
+  {
+    "id": "7-chest",
+    "name": "chest",
+    "displayName": "Pecho",
+    "category": "upper_body"
+  },
+  {
+    "id": "8-forearms",
+    "name": "forearms",
+    "displayName": "Antebrazos",
+    "category": "upper_body"
+  },
+  {
+    "id": "9-front-delts",
+    "name": "front-delts",
+    "displayName": "Deltoides Frontal",
+    "category": "upper_body"
+  },
+  {
+    "id": "10-glutes",
+    "name": "glutes",
+    "displayName": "Glúteos",
+    "category": "lower_body"
+  },
+  {
+    "id": "11-hamstrings",
+    "name": "hamstrings",
+    "displayName": "Isquiotibiales",
+    "category": "lower_body"
+  },
+  {
+    "id": "12-lats",
+    "name": "lats",
+    "displayName": "Dorsales",
+    "category": "upper_body"
+  },
+  {
+    "id": "13-lower-back",
+    "name": "lower-back",
+    "displayName": "Espalda Baja",
+    "category": "core"
+  },
+  {
+    "id": "14-neck",
+    "name": "neck",
+    "displayName": "Cuello",
+    "category": "upper_body"
+  },
+  {
+    "id": "15-obliques",
+    "name": "obliques",
+    "displayName": "Oblicuos",
+    "category": "core"
+  },
+  {
+    "id": "16-quadriceps",
+    "name": "quadriceps",
+    "displayName": "Cuádriceps",
+    "category": "lower_body"
+  },
+  {
+    "id": "17-rear-delts",
+    "name": "rear-delts",
+    "displayName": "Deltoides Posterior",
+    "category": "upper_body"
+  },
+  {
+    "id": "19-traps",
+    "name": "traps",
+    "displayName": "Trapecios",
+    "category": "upper_body"
+  },
+  {
+    "id": "20-triceps",
+    "name": "triceps",
+    "displayName": "Tríceps",
+    "category": "upper_body"
+  },
+  {
+    "id": "21-upper-chest",
+    "name": "upper-chest",
+    "displayName": "Pecho Superior",
+    "category": "upper_body"
+  },
+  {
+    "id": "22-upper-back",
+    "name": "upper-back",
+    "displayName": "Espalda Alta",
+    "category": "upper_body"
+  },
+  {
+    "id": "23-medial-delts",
+    "name": "medial-delts",
+    "displayName": "Deltoides Lateral",
+    "category": "upper_body"
+  },
+  {
+    "id": "24-tibialis-anterior",
+    "name": "tibialis-anterior",
+    "displayName": "Tibial Anterior",
+    "category": "lower_body"
+  }
+]

@@ -1,0 +1,66 @@
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# expo router
+expo-env.d.ts
+
+# environment variables
+.env
+.env/*
+.env*
+.env.local
+
+/ios
+/android
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Temporary files created by Metro to check the health of the file watcher
+.metro-health-check*
+
+# IDE
+.idea/
+.vscode/
+
+# AI tools
+.claude/
+.claudepoint/
+.history/
+.clinerules/
+.kilocode/
+.roo/
+.windsurf/
+.cursor/
+.kiro/
+.qoder/
+.augment/
+
+# Build artifacts
+build-*.tar.gz
+exports/
+
+.docs/
+.mcp.json
+
+# Duplicate files (macOS creates these with spaces)
+*\ 2.*
+*\ 2
+* copy.*
+* copy
+
+# Editor backup files
+*~
+*.swp
+*.swo
+*.bak

@@ -1,0 +1,76 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 225 230 235; /* rgb(225, 230, 235) */
+    --foreground: 30 35 40; /* rgb(30, 35, 40) */
+    --card: 235 238 242; /* rgb(235, 238, 242) */
+    --card-foreground: 30 35 40; /* rgb(30, 35, 40) */
+    --popover: 235 238 242; /* rgb(235, 238, 242) */
+    --popover-foreground: 30 35 40; /* rgb(30, 35, 40) */
+    --primary: 0, 103, 235; /* rgb(0, 103, 235) */
+    --primary-foreground: 255 255 255; /* rgb(255, 255, 255) */
+    --secondary: 215 220 228; /* rgb(215, 220, 228) */
+    --secondary-foreground: 30 35 40; /* rgb(30, 35, 40) */
+    --muted: 215 220 228; /* rgb(215, 220, 228) */
+    --muted-foreground: 90 100 115; /* rgb(90, 100, 115) */
+    --accent: 215 220 228; /* rgb(215, 220, 228) */
+    --accent-foreground: 30 35 40; /* rgb(30, 35, 40) */
+    --destructive: 226 58 47; /* rgb(226, 58, 47) */
+    --destructive-foreground: 250 250 250; /* rgb(250, 250, 250) */
+    --border: 200 205 215; /* rgb(200, 205, 215) */
+    --input: 200 205 215; /* rgb(200, 205, 215) */
+    --ring: 0, 103, 235; /* rgb(0, 103, 235) */
+    --placeholder: 120 130 145; /* rgb(120, 130, 145) */
+  }
+
+  .dark {
+    --background: 35 36 37; /* rgb(35, 36, 37) */
+    --foreground: 251 251 251; /* rgb(251, 251, 251) */
+    --card: 52 53 55; /* rgb(52, 53, 55) */
+    --card-foreground: 251 251 251; /* rgb(251, 251, 251) */
+    --popover: 52 53 55; /* rgb(52, 53, 55) */
+    --popover-foreground: 251 251 251; /* rgb(251, 251, 251) */
+    --primary: 0, 103, 235; /* rgb(0, 103, 235) */
+    --primary-foreground: 255 255 255; /* rgb(255, 255, 255) */
+    --secondary: 68 69 71; /* rgb(68, 69, 71) */
+    --secondary-foreground: 251 251 251; /* rgb(251, 251, 251) */
+    --muted: 68 69 71; /* rgb(68, 69, 71) */
+    --muted-foreground: 178 179 180; /* rgb(178, 179, 180) */
+    --accent: 68 69 71; /* rgb(68, 69, 71) */
+    --accent-foreground: 251 251 251; /* rgb(251, 251, 251) */
+    --destructive: 239 68 68; /* rgb(239, 68, 68) */
+    --border: 255 255 255; /* rgb(255, 255, 255) */
+    --border-opacity: 0.1;
+    --input: 255 255 255; /* rgb(255, 255, 255) */
+    --input-opacity: 0.15;
+    --ring: 29 98 230; /* rgb(0, 103, 235) */
+    --placeholder: 140 150 160; /* rgb(140, 150, 160) */
+  }
+
+  .dark-high-contrast {
+    --background: 0 0 0; /* rgb(0, 0, 0) */
+    --foreground: 255 255 255; /* rgb(255, 255, 255) */
+    --card: 15 15 15; /* rgb(15, 15, 15) */
+    --card-foreground: 255 255 255; /* rgb(255, 255, 255) */
+    --popover: 15 15 15; /* rgb(15, 15, 15) */
+    --popover-foreground: 255 255 255; /* rgb(255, 255, 255) */
+    --primary: 59 130 246; /* rgb(0, 103, 235) */
+    --primary-foreground: 255 255 255; /* rgb(255, 255, 255) */
+    --secondary: 40 40 40; /* rgb(40, 40, 40) */
+    --secondary-foreground: 255 255 255; /* rgb(255, 255, 255) */
+    --muted: 40 40 40; /* rgb(40, 40, 40) */
+    --muted-foreground: 220 220 220; /* rgb(220, 220, 220) */
+    --accent: 40 40 40; /* rgb(40, 40, 40) */
+    --accent-foreground: 255 255 255; /* rgb(255, 255, 255) */
+    --destructive: 248 113 113; /* rgb(248, 113, 113) */
+    --border: 255 255 255; /* rgb(255, 255, 255) */
+    --border-opacity: 0.3;
+    --input: 255 255 255; /* rgb(255, 255, 255) */
+    --input-opacity: 0.25;
+    --ring: 96 165 250; /* rgb(0, 103, 235) */
+    --placeholder: 180 180 180; /* rgb(180, 180, 180) */
+  }
+}
