@@ -159,14 +159,17 @@ npm run full-check
 - Optimizacion especifica de la plataforma
 - Uso de APIs nativas de iOS (Haptics, Notificaciones)
 
-## Limitaciones (Version TFG)
+## Alcance del Proyecto
 
-Esta version es una simplificacion del proyecto original para el TFG:
+Este proyecto es una version adaptada para el TFG. El desarrollo original incluia funcionalidades adicionales que excedian el alcance academico requerido, por lo que se opto por simplificar la aplicacion para centrar el trabajo en los aspectos fundamentales de la arquitectura y desarrollo movil.
 
-- Sin autenticacion de usuarios
-- Sin sincronizacion en la nube
-- Sin sistema de logros
-- Sin compras in-app
+**Funcionalidades excluidas del alcance del TFG:**
+- Autenticacion de usuarios
+- Sincronizacion en la nube
+- Sistema de logros y gamificacion
+- Compras in-app
+
+Esta simplificacion permite enfocarse en demostrar las competencias tecnicas esenciales sin complejidad innecesaria para los objetivos academicos.
 
 ## Autor
 
